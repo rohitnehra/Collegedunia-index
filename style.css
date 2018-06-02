@@ -1,0 +1,181 @@
+body {
+  margin: 0 auto;
+  font-family: "Helvetica", "Arial", sans-serif;
+  margin-top: 20px;
+}
+.navbar-brand {
+  padding: 0;
+}
+.carousel-control.right{
+	background-image: none;
+}
+.carousel-control.left{
+	background-image: none;
+}
+.explore hr{/*----------slide box section--------*/
+	width: 100px;
+	height: 5px;
+	background-color: #BF0000;
+	border: none;
+}
+.explore h1{
+	padding-top: 50px;
+	font-weight: bold;
+}
+.explore p{
+	padding-bottom: 50px;
+}
+.slide-box{
+	background-color: #f1f1f1;/*----------slide box section--------*/
+	height: 250px;
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom: 50px;
+}
+.college-sec h1{/*--CHOOSE YOUR FUTURE--*/
+	font-weight: bold;
+}
+.college-sec hr{
+	width: 100px;
+	height: 5px;
+	background-color: #BF0000;
+	border: none;
+}
+.college-sec p{
+	padding-bottom: 15px;
+}
+.college-btn button{
+	background-color: #497d9e;
+	color: white;
+	font-weight: bold;
+}
+.college-btn button:hover{
+	background-color: #f1f1f1;
+}
+.college-btn p{
+	padding-bottom: 50px;
+}
+.college-box .col-md-3{
+	border: 1px solid lightgray;
+	padding: 10px;
+	 box-shadow: 0.3px 3px 3px 1px #888888;
+	 margin-bottom: 30px;
+	 border-radius: 5px;
+}
+.college-box .col-md-3:hover{
+	background-color: #f1f1f1;
+	cursor: pointer;
+}
+.college-box h4{
+	font-weight: bold;
+	color: #BF0000;
+}
+.your-future:hover{
+	background-color: #f1f1f1;
+	cursor: pointer;
+}.your-future h4{
+	font-weight: bold;
+	color: #BF0000;
+}
+.your-future{
+	border: 1px solid lightgray;
+	padding: 30px;
+	box-shadow: 0px 2px 10px 2px #E0DDDD;
+	margin-bottom: 30px;
+	border-radius: 5px;
+}
+/*--CHOOSE YOUR FUTURE--*/
+
+.testimonial{
+	background: url("img/parallax2.jpg");/*----------Parallax box section--------*/
+	height: 450px;
+	background-attachment: fixed;
+	opacity:0.5;
+	
+}
+.testimonial{
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+	
+.col-md-4 .top-courses{ /*----------Top Courses Exam Section--------*/
+	border: 1px solid lightgray;
+	padding: 30px;
+	 box-shadow: 0px 2px 10px 2px #888888;
+	 margin-bottom: 30px;
+	 border-radius: 5px;
+}
+.col-md-4 .top-courses:hover{
+	background-color: #f1f1f1;
+	cursor: pointer;
+}
+.below-text>div{
+	display: inline-block;
+	float: left;
+}
+.below-text p{
+	margin-right: 20px; 
+}
+.top-courses h4{
+	font-weight: bold;
+	color: #BF0000;
+}
+.left-content p{
+	color: #497d9e;
+	font-weight: bold;
+}
+.right-btn button{
+	background-color: #497d9e;
+	color: white;
+	font-weight: bold;
+}
+.courses-title h1{
+		font-weight: bold;
+}
+.courses-title hr{
+	width: 100px;
+	height: 5px;
+	background-color: #BF0000;
+	border: none;
+	margin-bottom: 70px;
+}
+.bottom-space{
+	padding-bottom: 70px;
+}
+/*----------------top featured college of india------------*/
+.bg-color{
+	background-color: #f1f1f1;
+	margin-bottom: 70px;
+}
+.college-india h1{
+	font-weight: bold;
+	padding-top: 40px;
+}
+.college-india hr{
+	width: 100px;
+	height: 5px;
+	background-color: #BF0000;
+	border: none;
+}
+.college-india p{
+	padding-bottom: 50px;
+}
+.below-text2 .left-badge{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.left-badge p{
+	background-color: #BF0000;
+}
+.below-text2 .right-text p{
+	padding-top: 10px;
+}
+.below-text2>div{
+	display: inline-block;
+	float: left;
+
+}
+.right-text a{
+	color: black;
+}
+/*------------------*/
